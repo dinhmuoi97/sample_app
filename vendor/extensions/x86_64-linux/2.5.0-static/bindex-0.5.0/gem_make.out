@@ -1,0 +1,15 @@
+current directory: /home/muoi/Project_Muoi/vendor/gems/bindex-0.5.0/ext/bindex
+/home/muoi/.rbenv/versions/2.5.3/bin/ruby -I /home/muoi/.rbenv/versions/2.5.3/lib/ruby/site_ruby/2.5.0 -r ./siteconf20190104-4650-teuiye.rb extconf.rb
+creating Makefile
+
+current directory: /home/muoi/Project_Muoi/vendor/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /home/muoi/Project_Muoi/vendor/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: /home/muoi/Project_Muoi/vendor/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20190104-4650-syautf/bindex
